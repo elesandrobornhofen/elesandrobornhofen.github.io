@@ -36,7 +36,7 @@ _UTF 25 - Early bread wheat cultivar with white flour._
 
 * <span style="color: #449bdb">Bornhofen E.</span>; Vello N.A.
   Tolerance to rust-induced stress: a comprehensive study on the benefits and constraints to soybean breeding.  
-  _In Proceedings of the **crops2019 conference**._
+  _In Proceedings of the **Crops2019** conference._
   September 2019, Huntsville, Alabama, USA. \\
   [poster](/assets/posters/CROPS2019_poster_bornhofen.pdf){: .btn .btn--primary .btn--small}
 
