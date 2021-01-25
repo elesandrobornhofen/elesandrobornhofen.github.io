@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines in the text below
   Bornhofen's personal website.
 twitter_username: eB_elesandro
 github_username: elesandrobornhofen
-minimal_mistakes_skin: #"contrast" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: air #"contrast" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
 # Build settings
