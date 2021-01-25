@@ -9,7 +9,7 @@ Selected publications
 ## Selected peer reviewed articles
 
 
-<font size="8">
+<font size="3">
 * **Combining ability for the improvement of vegetable soybean.**
   Renan Silva e Souza,
   Pedro Augusto Medeiros Barbosa,
