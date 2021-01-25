@@ -6,16 +6,16 @@ header:
 ---
 Selected publications
 
-<span style="color: red;">text</span>
+
 
 ## Selected peer reviewed articles
 
 
-* Souza R.S.; Barbosa P.A.M; Yassue R.M;<span style="color: #449bdb">Bornhofen E.</span>; Espolador F.G.; Nazato F.M.; Vello N.A.
+* Souza R.S.; Barbosa P.A.M; Yassue R.M; <span style="color: #449bdb">Bornhofen E.</span>; Espolador F.G.; Nazato F.M.; Vello N.A.
   _Combining ability for the improvement of vegetable soybean._
   **Agronomy Journal**, 112(5), p.3535-3548, 2020. _[**doi**](https://doi.org/10.1002/agj2.20322)_
 
-  <span style="color: #449bdb">Bornhofen E.</span>; Ramires T.G.; Bergonci T.; Nakamura L.R.; Righetto A.J.
+* <span style="color: #449bdb">Bornhofen E.</span>; Ramires T.G.; Bergonci T.; Nakamura L.R.; Righetto A.J.
   _Associations between global indices of risk management and agricultural development._
   **Agricultural Systems**, 173, p.281-288, 2019. _[**doi**](https://doi.org/10.1016/j.agsy.2019.03.006)_
 
