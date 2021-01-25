@@ -11,7 +11,7 @@ Selected publications
 
 | yr                                                 | pub title                                                                    | journal | r             | r |
 |----------------------------------------------------|------------------------------------------------------------------------------|---------|---------------|---|
-| dsijdisdish dsdhushdush dushduhsu dhushdddushdushdus | dhuashduashdiua shdiasuhdiuashduias hduiashdushdusahdaiuhduash diuashduishdi | bb      | suhdushduhsdu | c |
+| dsijdisdish dsdhushdush dushduhsu dhushdddushdushdus | dhuaffshduashdiua shdiasuhdiuashduias hduiashdushdusahdaiuhduash diuashduishdi | bb      | suhdushduhsdu | c |
 | 2021                                               | bb                                                                           | bb      | c             | c |
 | 2022                                               | cc                                                                           | cc      | a             | a |
 
