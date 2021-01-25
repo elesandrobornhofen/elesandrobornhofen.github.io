@@ -9,14 +9,14 @@ Selected publications
 ## Selected peer reviewed articles
 
 
-* **Combining ability for the improvement of vegetable soybean.**
-  Renan Silva e Souza,
+* Renan Silva e Souza,
   Pedro Augusto Medeiros Barbosa,
   Rafael Massahiro Yassue,
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate),
   Fernando Garcia Espolador,
   Felipe Maniero Nazato,
-  Natal Antonio Vello.  
+  Natal Antonio Vello.
+  Combining ability for the improvement of vegetable soybean
   _Agronomy Journal_, 112(5), 2020. _[**doi**](https://doi.org/10.1002/agj2.20322)_
 
 * **UTF 25-Early bread wheat cultivar with white flour.**
