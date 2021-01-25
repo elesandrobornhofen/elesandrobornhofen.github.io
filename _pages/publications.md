@@ -11,33 +11,13 @@ Selected publications
 ## Selected peer reviewed articles
 
 
-* Renan Silva e Souza,
-  Pedro Augusto Medeiros Barbosa,
-  Rafael Massahiro Yassue,
-  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate),
-  Fernando Garcia Espolador,
-  Felipe Maniero Nazato,
-  Natal Antonio Vello.
+* Souza R.S.; Barbosa P.A.M; Yassue R.M;<span style="color: #449bdb">Bornhofen E.</span>; Espolador F.G.; Nazato F.M.; Vello N.A.
   _Combining ability for the improvement of vegetable soybean._
-  **Agronomy Journal**, 112(5), 2020. _[**doi**](https://doi.org/10.1002/agj2.20322)_
-
-* **UTF 25-Early bread wheat cultivar with white flour.**
-  Giovani Benin, et al.
-  _Crop Breeding and Applied Biotechnology_, 20(4), 2020. _[**doi**](https://doi.org/10.1590/1984-70332020v20n4c67)_
+  **Agronomy Journal**, 112(5), p.3535-3548, 2020. _[**doi**](https://doi.org/10.1002/agj2.20322)_
 
   <span style="color: #449bdb">Bornhofen E.</span>; Ramires T.G.; Bergonci T.; Nakamura L.R.; Righetto A.J.
   _Associations between global indices of risk management and agricultural development._
   **Agricultural Systems**, 173, p.281-288, 2019. _[**doi**](https://doi.org/10.1016/j.agsy.2019.03.006)_
-
-* **Wheat yield improvements in Brazil: Roles of genetics and environment.**
-  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate),
-  Matheus Henrique Todeschini,
-  Matheus Giovane Stoco,
-  Alana Madureira,
-  Volmir Sergio Marchioro,
-  Lindolfo Storck,
-  Giovani Benin.
-  _Crop Science_, 58(3), 2018. _[**doi**](https://doi.org/10.2135/cropsci2017.06.0358)_
 
 
 ## Selected conference proceedings
