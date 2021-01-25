@@ -1,0 +1,12 @@
+.Rproj.user/*
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
+**/cache/
+_site
+.sass-cache
+.jekyll-metadata
+Gemfile.lock
+.Rproj.user

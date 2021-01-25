@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Bio"
+    url: /bio/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Conferences"
+    url: /conferences/
+  - title: "CV"
+    url: /assets/CV/CV_Elesandro_Bornhofen___EN_v.4.pdf
+  - title: "Blog"
+    url: /blog/

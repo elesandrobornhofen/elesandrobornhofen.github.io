@@ -1,0 +1,154 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Elesandro Bornhofen
+url: #https://elesandrobornhofen.github.io
+## To build the website locally, comment out the previous line and run
+## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
+## 'localhost:4000'.
+
+
+github: [metadata]
+email: bornhofen@qgg.au.dk
+description: >- # this means to ignore newlines in the text below
+  Bornhofen's personal website.
+twitter_username: eB_elesandro
+github_username: elesandrobornhofen
+minimal_mistakes_skin: #"contrast" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /blog/page:num
+timezone: 	Europe/Copenhagen
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Elesandro Bornhofen"
+  avatar : #"/assets/images/mcdermott400sq-s.jpg"
+  bio    :
+    Postdoctoral researcher at [Aarhus University](https://qgg.au.dk/en/), DK.
+    Interested in plant genetics and prediction for breeding better crops.
+  links:
+    - label: #"Website"
+      icon: #"fas fa-fw fa-link"
+      url: #"https://grantmcdermott.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "bornhofen@qgg.au.dk"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eB_elesandro"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/elesandro-bornhofen-02261a4a/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/elesandrobornhofen"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Elesandro_Bornhofen"
+    - label: "Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com.br/citations?user=41DCnKQAAAAJ&hl=pt-BR"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-7447-6226"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/eB_elesandro"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/elesandrobornhofen"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: false
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+
+# Social
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#twitter-cards-and-facebook-open-graph
+og_image: /assets/images/default-thumb.png
+
+# Analytics
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-Z82K1HG9CB"
+    anonymize_ip: false # default
+
+# Comments
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "https-elesandrobornhofen-github-io"
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /blog/tag-archive/
+
+exclude: ['*.Rmd']
