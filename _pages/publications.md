@@ -40,11 +40,9 @@ _UTF 25 - Early bread wheat cultivar with white flour._
   September 2019, Huntsville, Alabama, USA. \\
   [poster](/assets/posters/CROPS2019_poster_bornhofen.pdf){: .btn .btn--primary .btn--small}
 
-* **Unraveling the potential use of tolerance as a defense strategy against Asian soybean rust.**
-  [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate),
-  Aaron J. Lorenz,
-  Natal Antonio Vello.  
-  _Proceedings of the 17th biennial conference on the molecular and cellular biology of the soybean._
+* <span style="color: #449bdb">Bornhofen E.</span>; Lorenz A.J.; Vello N.A.
+  Unraveling the potential use of tolerance as a defense strategy against Asian soybean rust.
+  _Proceedings of the 17th biennial conference on the molecular and cellular biology of the soybean - **SOY2018**._
   August 2018, Athens, Georgia, USA. <font size="3"> <span style="color: #d03030">Recipient of SOY2018 Poster Competition Award (2nd place)</span> </font> \\
   [poster](/assets/posters/SOY2018_poster_bornhofen.pdf){: .btn .btn--primary .btn--small}
   [award](/assets/posters/SOY2018_award.jpg){: .btn .btn--primary .btn--small}
