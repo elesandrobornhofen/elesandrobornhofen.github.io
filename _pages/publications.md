@@ -9,7 +9,7 @@ Selected publications
 ## Selected peer reviewed articles
 
 
-
+<font size="8">
 * **Combining ability for the improvement of vegetable soybean.**
   Renan Silva e Souza,
   Pedro Augusto Medeiros Barbosa,
@@ -41,6 +41,8 @@ Selected publications
   Lindolfo Storck,
   Giovani Benin.
   _Crop Science_, 58(3), 2018. _[**doi**](https://doi.org/10.2135/cropsci2017.06.0358)_
+
+</font>
 
 ## Selected conference proceedings
 
