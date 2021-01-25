@@ -25,9 +25,9 @@ Selected publications
   Giovani Benin, et al.
   _Crop Breeding and Applied Biotechnology_, 20(4), 2020. _[**doi**](https://doi.org/10.1590/1984-70332020v20n4c67)_
 
-  <span style="color: #a2cceb">Bornhofen E.</span>; Ramires T.G.; Bergonci T.; Nakamura L.R.; Righetto A.J.
+  <span style="color: #449bdb">Bornhofen E.</span>; Ramires T.G.; Bergonci T.; Nakamura L.R.; Righetto A.J.
   _Associations between global indices of risk management and agricultural development._
-  **Agricultural Systems**, 173, p.281-288, 2019. _[doi](https://doi.org/10.1016/j.agsy.2019.03.006)
+  **Agricultural Systems**, 173, p.281-288, 2019. _[**doi**](https://doi.org/10.1016/j.agsy.2019.03.006)_
 
 * **Wheat yield improvements in Brazil: Roles of genetics and environment.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate),
