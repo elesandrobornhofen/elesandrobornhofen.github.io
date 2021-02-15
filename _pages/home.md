@@ -3,7 +3,6 @@ permalink: /
 title: "Welcome"
 author_profile: true
 classes: wide
-fontsize: 4pt
 header:
   image: /assets/images/research.png
 ---
