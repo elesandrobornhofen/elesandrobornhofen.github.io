@@ -35,6 +35,12 @@ _UTF 25 - Early bread wheat cultivar with white flour._
 ## Selected conference proceedings
 
 * <span style="color: #449bdb">Bornhofen E.</span>; Vello N.A.
+  Stress-driven responses to Asian rust in soybean genotypes: Depicting the concepts of static and dynamic tolerance.  
+  _In Proceedings of the **10th Brazilian Congress of Plant Breeding**._
+  August 2019, Águas de Lindoia, São Paulo, BRA. \\
+  [poster](/assets/posters/CBMP2019_poster_bornhofen.pdf){: .btn .btn--primary .btn--small}
+
+* <span style="color: #449bdb">Bornhofen E.</span>; Vello N.A.
   Tolerance to rust-induced stress: a comprehensive study on the benefits and constraints to soybean breeding.  
   _In Proceedings of the **Crops2019** conference._
   September 2019, Huntsville, Alabama, USA. \\
