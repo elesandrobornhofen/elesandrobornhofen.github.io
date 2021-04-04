@@ -24,3 +24,8 @@ $base0f: #d33682 !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.author__avatar img {
+    max-width: 150px;
+    border-radius: 50%;
+}
