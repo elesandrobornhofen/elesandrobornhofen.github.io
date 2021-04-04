@@ -64,7 +64,7 @@ plugins:
 
 author:
   name   : "Elesandro Bornhofen"
-  avatar : #"/assets/images/mcdermott400sq-s.jpg"
+  avatar : "/assets/photos/profile.jpg"
   bio    :
     Postdoctoral researcher at [Aarhus University](https://qgg.au.dk/en/), DK.
     Interested in plant genetics and prediction for breeding better crops.
