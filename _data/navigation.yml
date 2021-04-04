@@ -11,5 +11,5 @@ main:
 #    url: /conferences/
   - title: "CV"
     url: /assets/CV/CV_Elesandro_Bornhofen___EN_v.4.pdf
-  - title: "Blog"
-    url: /blog/
+  #- title: "Blog"
+  #  url: /blog/
