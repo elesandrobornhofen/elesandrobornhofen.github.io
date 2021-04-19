@@ -5,7 +5,7 @@ header:
   image: /assets/images/riis_skov_forest.jpg
 ---
 
-**Fields:** Plant genetics an breeding. Prediction models. Agriculture.
+**Fields:** Plant genetics and breeding. Prediction models. Agriculture.
 
 **Interests:** The use of genomic tools to accelerate genetic gains in plants. Improve resource allocation in breeding programs. Design better crop varieties. Sustainable agriculture. Data science. Financial markets.
 
@@ -17,7 +17,7 @@ This research study aimed to understand the genetic tolerance mechanism of soybe
 
 "Leveraging spatio-temporal genomic prediction in grass breeding."
 
-This research manuscript aims to combine information from multiple environments (spatial) and multiple harvest events (temporal) to maximize predictive ability of dry matter yield and quality traits in ryegrass research. 
+This research manuscript aims to combine information from multiple environments (spatial) and multiple harvest events (temporal) to maximize predictive ability of dry matter yield and quality traits in ryegrass research.
 
 
 ## Selected research projects in progress...
