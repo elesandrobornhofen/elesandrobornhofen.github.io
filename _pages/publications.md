@@ -4,7 +4,7 @@ permalink: /publications/
 header:
   image: /assets/images/MN_snow.jpg
 ---
-Selected publications
+Selected publications. The full list can be found elsewhere, as for example, on [ReseachGate](https://www.researchgate.net/profile/Elesandro-Bornhofen)
 
 
 
