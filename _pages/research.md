@@ -20,7 +20,7 @@ This research study aimed to understand the genetic tolerance mechanism of soybe
 This research manuscript aims to combine information from multiple environments (spatial) and multiple harvest events (temporal) to maximize predictive ability of dry matter yield and quality traits in ryegrass research.
 
 
-## Selected research projects in progress...
+## Research projects
 
 1. "Breed4Biomass" - Reverse Breeding for Biomass Improvement in Grasses.\
   * <font size="4"> AU Project Manager : Torben Asp; </font>
@@ -28,3 +28,7 @@ This research manuscript aims to combine information from multiple environments 
 2. "GreenSelect" - Maximizing Green Grass Breeding by Second Generation Genomic Selection.\
   * <font size="4"> AU Project Manager : Luc Janss; </font>
   * <font size="4"> Partner : DLF-TRIFOLIUM A/S; </font>
+
+## Scholarships
+
+*

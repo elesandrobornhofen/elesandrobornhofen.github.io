@@ -53,7 +53,7 @@ _UTF 25 - Early bread wheat cultivar with white flour._
   [poster](/assets/posters/SOY2018_poster_bornhofen.pdf){: .btn .btn--primary .btn--small}
   [award](/assets/posters/SOY2018_award.jpg){: .btn .btn--primary .btn--small}
 
-## Theses
+## Academic publications
 
 ### 2020
 
