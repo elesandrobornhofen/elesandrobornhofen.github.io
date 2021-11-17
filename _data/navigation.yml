@@ -7,6 +7,8 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: /Misc.
+    url: /misc/
 #  - title: "Conferences"
 #    url: /conferences/
   - title: "CV"

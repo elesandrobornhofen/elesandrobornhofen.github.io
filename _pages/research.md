@@ -31,4 +31,8 @@ This research manuscript aims to combine information from multiple environments 
 
 ## Scholarships
 
-*
+* list here
+
+## Conferences
+
+* list here
