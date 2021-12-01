@@ -26,3 +26,8 @@ Beekeeping as a hobby is something that I have started a long time ago, even bef
 
 
 ## Photos
+
+<figure style="width:100%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/photos/general/family_farm.png" alt="">
+  <figcaption>Fig. - Wheat field grown in the winter of 2020 in our family farm in Southern Brazil.</figcaption>
+</figure>
