@@ -13,9 +13,9 @@ header:
 
 
 ## Hobbies
-<img src="/assets/photos/general/jatai.jpg" alt="Jataí" style="height: 100px; width:100px;"/>
+<img src="/assets/photos/general/jatai.jpg" alt="Jataí" style="height: 800px; width:800px;"/>
 
-![Jataí](/assets/photos/general/jatai.jpg "Jataí")
+
 
 
 
