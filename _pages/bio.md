@@ -13,7 +13,7 @@ header:
 
 
 ## Hobbies
-Beekeeping as a hobby is something that I have started a long time ago, even before going to school. But it's not common honey bee (*Apis melifera*) that I am referring to, instead it is mainly the small stingless bee *Tetragonisca angustula*, which can be found along South and Central America countries.
+Beekeeping as a hobby is something that I have started a long time ago, even before going to school. But it's not the common honey bee (*Apis melifera*) that I am referring to, instead it is mainly the small stingless bee *Tetragonisca angustula*, which can be found along South and Central American countries. As it does not require much attention, I can easily keep the 20 hives even though I am thousands of kilometers away.
 
 <figure style="width:70%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/photos/general/jatai.jpg" alt="">
