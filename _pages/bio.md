@@ -13,7 +13,7 @@ header:
 
 
 ## Hobbies
-
+![Jataí](/assets/photos/general/jatai.jpg "Jataí")
 
 
 
