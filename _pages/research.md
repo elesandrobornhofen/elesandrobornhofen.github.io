@@ -5,19 +5,23 @@ header:
   image: /assets/images/riis_skov_forest.jpg
 ---
 
-**Fields:** Plant genetics and breeding. Prediction models. Agriculture.
+**Fields:** Plant genetics and breeding. Predictive breeding. Agriculture.
 
-**Interests:** The use of genomic tools to accelerate genetic gains in plants. Improve resource allocation in breeding programs. Design better crop varieties. Sustainable agriculture. Data science. Financial markets.
+**Interests:** Bridge multi-omics data and statistical learning methods to sustain (and maybe accelerate) the rate of genetic gains in plants. Improve resource allocation in breeding programs. Design better crop varieties. Sustainable agriculture. Data science. Financial markets.
 
-## Working papers
+## Working manuscripts
 
-"Soybean tolerance to Asian rust." (*To be submitted*)
+"Genetic architecture of inter-specific and -generic grass hybrids by network analysis on multi-omics data"
 
-This research study aimed to understand the genetic tolerance mechanism of soybean to Asian rust. The motivation lied in the fact that no single control strategy used so far yielded high control rates over time at a reasonable cost. In addition, there is a lack of research studies assessing the potential use of tolerance as a defense strategy against ASR (Asian Soybean Rust).
+The study elaborates on the use of Markov random fields (MRF) and likelihood-based (REML) multivariate mixed models for multi-omics (genomics, transcriptomics, and metabolomics) integration in forage hybrids.
 
 "Leveraging spatio-temporal genomic prediction in grass breeding."
 
 This research manuscript aims to combine information from multiple environments (spatial) and multiple harvest events (temporal) to maximize predictive ability of dry matter yield and quality traits in ryegrass research.
+
+"Soybean tolerance to Asian rust."
+
+This research study aimed to understand the genetic tolerance mechanism of soybean to Asian rust. The motivation lied in the fact that no single control strategy used so far yielded high control rates over time at a reasonable cost. In addition, there is a lack of research studies assessing the potential use of tolerance as a defense strategy against ASR (Asian Soybean Rust).
 
 
 ## Research projects
