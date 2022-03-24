@@ -34,6 +34,14 @@ _UTF 25 - Early bread wheat cultivar with white flour._
 
 ## Selected conference proceedings
 
+* <span style="color: #449bdb">Bornhofen E.</span>; Fè D.; Lenk I.; Pedersen M.G.; Didion T.; Jensen C.S.; Asp T.; Janss L.
+Genomic inference and prediction of perennial ryegrass yield and quality traits under spatio-temporal genotype by environment interaction.  
+  _In Proceedings of the **XXIX Plant and Animal Genome Conference (PAG)**._
+  January 2022, San Diego, California, USA (Online). \\
+  [abstract](/assets/abstracts/PAG22_abstract_Bornhofen.pdf){: .btn .btn--primary .btn--small}
+  [poster](/assets/posters/Bornhofen_poster_PO0397_PAG22.pdf){: .btn .btn--primary .btn--small}
+
+
 * <span style="color: #449bdb">Bornhofen E.</span>; Vello N.A.
   Stress-driven responses to Asian rust in soybean genotypes: Depicting the concepts of static and dynamic tolerance.  
   _In Proceedings of the **10th Brazilian Congress of Plant Breeding**._
@@ -82,7 +90,7 @@ _UTF 25 - Early bread wheat cultivar with white flour._
 
 ### 2015
 
-* **Evaluation of genetic and environmental effects on yield evolution, baking quality and stability of wheat.**
+* **Evaluation of genetic and environmental effects on yield gain, baking quality and stability of wheat.**
   [Elesandro Bornhofen](https://scholar.google.com.br/citations?hl=pt-BR&user=41DCnKQAAAAJ&view_op=list_works&sortby=pubdate).
   _Master's degree thesis, [**link**](http://repositorio.utfpr.edu.br/jspui/handle/1/1221), Federal University of Technology, UTFPR._
   Pato Branco, March 2015. <font size="3"> <span style="color: #7d7878">Language: Portuguese</span> </font> \\
