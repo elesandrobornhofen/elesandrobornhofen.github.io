@@ -10,6 +10,10 @@ Selected publications. The full list can be found elsewhere, as for example, on 
 
 ## Selected peer reviewed articles
 
+* <span style="color: #449bdb">Bornhofen E.</span>; Fè D.; Lenk I.; Greve M.; Didion T.; Jensen C.S.; Asp T.; Janss L.
+_Leveraging spatiotemporal genomic breeding value estimates of dry matter yield and herbage quality in ryegrass via random regression models._
+**The Plant Genome**, e20255, 2022. _[**doi**](https://doi.org/10.1002/tpg2.20255)_
+
 * Souza R.S.; Barbosa P.A.M; Yassue R.M; <span style="color: #449bdb">Bornhofen E.</span>; Espolador F.G.; Nazato F.M.; Vello N.A.
  _Combining ability for the improvement of vegetable soybean._
  **Agronomy Journal**, 112(5), p.3535-3548, 2020. _[**doi**](https://doi.org/10.1002/agj2.20322)_
@@ -29,6 +33,16 @@ _UTF 25 - Early bread wheat cultivar with white flour._
 * <span style="color: #449bdb">Bornhofen E.</span>; Todeschini M.H.; Stoco M.G.; Madureira A.; Marchioro V.S.; Storck L.
  _Wheat yield improvements in Brazil: Roles of genetics and environment._
  **Crop Science**, 58(3), p.1082-1093, 2018. _[**doi**](http://dx.doi.org/10.2135/cropsci2017.06.0358)_
+
+## Selected preprints
+
+* Jayakodi M.; Golicz A.A.; Kreplak J.; Fechete L.I.; Angra D.; Bedn{\'a}{\v r} P.; Bornhofen E.; Zhang H.; Boussageon R.; Kaur S.; Cheung K.; {\v C}{\'\i}{\v z}kov{\'a} J.; Gundlach H.; Hallab A.; Imbert B.; Keeble-Gagn{\`e}re G.; Kobl{\'\i}{\v z}kov{\'a} A.; Kobrlov{\'a} L.; Krej{\v c}{\'\i} P.; Mouritzen T.W.; Neumann P.; Nadzieja M.; Nielsen L.K.; Nov{\'a}k P.; Orabi J.; Padmarasu S.; Robertson-Shersby-Harvie T.; Robledillo L.{\'A}.; Schiemann A.; Tanskanen J.; T{\"o}r{\"o}nen P.; Warsame A.O.; Wittenberg A.H.J.; Himmelbach A.; Aubert G.; Courty P.E..; Dole{\v z}el J.; Holm L.U.; Janss L.L.; Khazaei H.; Macas J.; Mascher M.; Sm{\'y}kal P.; Snowdon R.J.; Stein N.; Stoddard F.L.; Tayeh N.; Torres A.M.; Usadel B.; Schubert I.; O{\textquoteright}Sullivan D.M.; Schulman A.H.; Andersen S.U.
+_The giant diploid faba genome unlocks variation in a global protein crop._
+**bioRxiv**, 2022.  _[**doi**](http://dx.doi.org/10.1101/2022.09.23.509015)_
+
+## Data
+
+
 
 
 
