@@ -36,14 +36,15 @@ _UTF 25 - Early bread wheat cultivar with white flour._
 
 ## Selected preprints
 
-* Jayakodi M.; Golicz A.A.; Kreplak J.; Fechete L.I.; Angra D.; Bedn{\'a}{\v r} P.; Bornhofen E.; Zhang H.; Boussageon R.; Kaur S.; Cheung K.; {\v C}{\'\i}{\v z}kov{\'a} J.; Gundlach H.; Hallab A.; Imbert B.; Keeble-Gagn{\`e}re G.; Kobl{\'\i}{\v z}kov{\'a} A.; Kobrlov{\'a} L.; Krej{\v c}{\'\i} P.; Mouritzen T.W.; Neumann P.; Nadzieja M.; Nielsen L.K.; Nov{\'a}k P.; Orabi J.; Padmarasu S.; Robertson-Shersby-Harvie T.; Robledillo L.{\'A}.; Schiemann A.; Tanskanen J.; T{\"o}r{\"o}nen P.; Warsame A.O.; Wittenberg A.H.J.; Himmelbach A.; Aubert G.; Courty P.E..; Dole{\v z}el J.; Holm L.U.; Janss L.L.; Khazaei H.; Macas J.; Mascher M.; Sm{\'y}kal P.; Snowdon R.J.; Stein N.; Stoddard F.L.; Tayeh N.; Torres A.M.; Usadel B.; Schubert I.; O{\textquoteright}Sullivan D.M.; Schulman A.H.; Andersen S.U.
+* Jayakodi, M.; Golicz, A.A.; Kreplak, J.; Fechete, L.I.; Angra, D.; Bednář, P.; Bornhofen, E.; Zhang, H.; Boussageon, R.; Kaur, S.; Cheung, K.; Čížková, J.; Gundlach, H.; Hallab, A.; Imbert, B.; Keeble-Gagnère, G.; Koblížková, A.; Kobrlová, L.; Krejčí, P.; Mouritzen, T.W.; Neumann, P.; Nadzieja, M.; Nielsen, L.K.; Novák, P.; Orabi, J.; Padmarasu, S.; Robertson-Shersby-Harvie, T.; Robledillo, L.Á.; Schiemann, A.; Tanskanen, J.; Törönen, P.; Warsame, A.O.; Wittenberg, A.H.J.; Himmelbach, A.; Aubert, G.; Courty, P.E.; Doležel, J.; Holm, L.U.; Janss, L.L.; Khazaei, H.; Macas, J.; Mascher, M.; Smýkal, P.; Snowdon, R.J.; Stein, N.; Stoddard, F.L.; Tayeh, N.; Torres, A.M.; Usadel, B.; Schubert, I.; O’Sullivan, D.M.; Schulman, A.H.; Andersen, S.U.
 _The giant diploid faba genome unlocks variation in a global protein crop._
 **bioRxiv**, 2022.  _[**doi**](http://dx.doi.org/10.1101/2022.09.23.509015)_
 
 ## Data
 
-
-
+* Bornhofen, Elesandro et al.
+_Data for: Leveraging spatio-temporal genomic breeding value estimates of dry matter yield and herbage quality in ryegrass via random regression models._
+**Dryad**, Dataset, 2023. _[**doi**](https://doi.org/10.5061/dryad.q83bk3jm7)_
 
 
 ## Selected conference proceedings
