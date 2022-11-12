@@ -11,31 +11,25 @@ header:
 
 ## Working manuscripts
 
-"Genetic architecture of inter-specific and -generic grass hybrids by network analysis on multi-omics data"
+..* Genetic architecture of inter-specific and -generic grass hybrids by network analysis on multi-omics data
 
-The study elaborates on the use of Markov random fields (MRF) and likelihood-based (REML) multivariate mixed models for multi-omics (genomics, transcriptomics, and metabolomics) integration in forage hybrids.
+... The study elaborates on the use of Markov random fields (MRF) and likelihood-based (REML) multivariate mixed models for multi-omics (genomics, transcriptomics, and metabolomics) integration in forage hybrids.
 
-"Leveraging spatio-temporal genomic prediction in grass breeding."
+..* Soybean tolerance to Asian rust (ASR)
 
-This research manuscript aims to combine information from multiple environments (spatial) and multiple harvest events (temporal) to maximize predictive ability of dry matter yield and quality traits in ryegrass research.
-
-"Soybean tolerance to Asian rust."
-
-This research study aimed to understand the genetic tolerance mechanism of soybean to Asian rust. The motivation lied in the fact that no single control strategy used so far yielded high control rates over time at a reasonable cost. In addition, there is a lack of research studies assessing the potential use of tolerance as a defense strategy against ASR (Asian Soybean Rust).
+... We investigated the genetic tolerance of soybean to Asian rust. The motivation lay in the fact that no single control strategy historically yielded stable high control rates at a reasonable cost. Tolerance is a mechanism of crop defense well known by farmers and breeders. However, its genetics remain poorly understood, especially for the soybean-*P. pachyrhizi* pathosystem.
 
 
 ## Research projects
 
-1. "Breed4Biomass" - Reverse Breeding for Biomass Improvement in Grasses.\
-  * <font size="4"> AU Project Manager : Torben Asp; </font>
-  * <font size="4"> Partners : DLF-TRIFOLIUM A/S and Chinese Academy of Sciences; </font>
-2. "GreenSelect" - Maximizing Green Grass Breeding by Second Generation Genomic Selection.\
-  * <font size="4"> AU Project Manager : Luc Janss; </font>
-  * <font size="4"> Partner : DLF-TRIFOLIUM A/S; </font>
+Here is a list o research projects that I have been involved with during the last years:
 
-## Scholarships
+1. *C4FUTURE* - Fortifying and enhancing resilience in C4 crops for current and future climate change adversities.\
+2. *IMFABA* - Local and sustainable protein production with improved faba beans.\
+2. *ProFaba* - Developing improved _Vicia faba_ breeding practices and varieties to drive domestic protein production in the European Union.\
+3. *Breed4Biomass* - Reverse breeding for biomass improvement in grasses.\
+4. *GreenSelect* - Maximizing green grass breeding by second generation genomic selection.\
 
-* list here
 
 ## Conferences
 
