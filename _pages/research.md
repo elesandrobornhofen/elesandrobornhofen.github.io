@@ -11,13 +11,13 @@ header:
 
 ## Working manuscripts
 
-⋅⋅* Genetic architecture of inter-specific and -generic grass hybrids by network analysis on multi-omics data
+* Genetic architecture of inter-specific and -generic grass hybrids by network analysis on multi-omics data
 
-⋅⋅⋅The study elaborates on the use of Markov random fields (MRF) and likelihood-based (REML) multivariate mixed models for multi-omics (genomics, transcriptomics, and metabolomics) integration in forage hybrids.
+   The study elaborates on the use of Markov random fields (MRF) and likelihood-based (REML) multivariate mixed models for multi-omics (genomics, transcriptomics, and metabolomics) integration in forage hybrids.⋅⋅
 
-⋅⋅* Soybean tolerance to Asian rust (ASR)
+* Soybean tolerance to Asian rust (ASR)
 
-⋅⋅⋅We investigated the genetic tolerance of soybean to Asian rust. The motivation lay in the fact that no single control strategy historically yielded stable high control rates at a reasonable cost. Tolerance is a mechanism of crop defense well known by farmers and breeders. However, its genetics remain poorly understood, especially for the soybean-*P. pachyrhizi* pathosystem.
+   We investigated the genetic tolerance of soybean to Asian rust. The motivation lay in the fact that no single control strategy historically yielded stable high control rates at a reasonable cost. Tolerance is a mechanism of crop defense well known by farmers and breeders. However, its genetics remain poorly understood, especially for the soybean-*P. pachyrhizi* pathosystem.⋅⋅
 
 
 ## Research projects
