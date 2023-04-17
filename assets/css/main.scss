@@ -29,3 +29,15 @@ $base0f: #d33682 !default;
     max-width: 160px;
     border-radius: 50%;
 }
+
+.page__content {
+    p,
+    li,
+    dl {
+        font-size: 0.8em;
+    }
+}
+
+.toc li {
+    font-size: 1em;
+}
