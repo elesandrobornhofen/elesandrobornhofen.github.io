@@ -10,6 +10,14 @@ Selected publications. The full list can be found elsewhere, as for example, on 
 
 ## Selected peer reviewed articles
 
+* Bornhofen, E.; Fè, D.; Nagy, I.; Lenk, I.; Greve, M.; Didion, T.; Jensen, C.S.; Asp, T.; Janss, L.
+_Genetic architecture of inter-specific and -generic grass hybrids by network analysis on multi-omics data._
+**BMC Genomics**, 2023. _[**doi**](https://doi.org/10.1186/s12864-023-09292-7)_
+
+* Jayakodi, M.; Golicz, A.A.; Kreplak, J.; Fechete, L.I.; Angra, D.; Bednář, P.; <span style="color: #449bdb">Bornhofen, E.</span>; Zhang, H.; Boussageon, R.; Kaur, S.; Cheung, K.; Čížková, J.; Gundlach, H.; Hallab, A.; Imbert, B.; Keeble-Gagnère, G.; Koblížková, A.; Kobrlová, L.; Krejčí, P.; Mouritzen, T.W.; Neumann, P.; Nadzieja, M.; Nielsen, L.K.; Novák, P.; Orabi, J.; Padmarasu, S.; Robertson-Shersby-Harvie, T.; Robledillo, L.Á.; Schiemann, A.; Tanskanen, J.; Törönen, P.; Warsame, A.O.; Wittenberg, A.H.J.; Himmelbach, A.; Aubert, G.; Courty, P.E.; Doležel, J.; Holm, L.U.; Janss, L.L.; Khazaei, H.; Macas, J.; Mascher, M.; Smýkal, P.; Snowdon, R.J.; Stein, N.; Stoddard, F.L.; Tayeh, N.; Torres, A.M.; Usadel, B.; Schubert, I.; O’Sullivan, D.M.; Schulman, A.H.; Andersen, S.U.
+_The giant diploid faba genome unlocks variation in a global protein crop._
+**Nature**, 2022.  _[**doi**](https://doi.org/10.1038/s41586-023-05791-5)_
+
 * <span style="color: #449bdb">Bornhofen E.</span>; Fè D.; Lenk I.; Greve M.; Didion T.; Jensen C.S.; Asp T.; Janss L.
 _Leveraging spatiotemporal genomic breeding value estimates of dry matter yield and herbage quality in ryegrass via random regression models._
 **The Plant Genome**, e20255, 2022. _[**doi**](https://doi.org/10.1002/tpg2.20255)_
@@ -36,15 +44,17 @@ _UTF 25 - Early bread wheat cultivar with white flour._
 
 ## Selected preprints
 
-* Jayakodi, M.; Golicz, A.A.; Kreplak, J.; Fechete, L.I.; Angra, D.; Bednář, P.; <span style="color: #449bdb">Bornhofen, E.</span>; Zhang, H.; Boussageon, R.; Kaur, S.; Cheung, K.; Čížková, J.; Gundlach, H.; Hallab, A.; Imbert, B.; Keeble-Gagnère, G.; Koblížková, A.; Kobrlová, L.; Krejčí, P.; Mouritzen, T.W.; Neumann, P.; Nadzieja, M.; Nielsen, L.K.; Novák, P.; Orabi, J.; Padmarasu, S.; Robertson-Shersby-Harvie, T.; Robledillo, L.Á.; Schiemann, A.; Tanskanen, J.; Törönen, P.; Warsame, A.O.; Wittenberg, A.H.J.; Himmelbach, A.; Aubert, G.; Courty, P.E.; Doležel, J.; Holm, L.U.; Janss, L.L.; Khazaei, H.; Macas, J.; Mascher, M.; Smýkal, P.; Snowdon, R.J.; Stein, N.; Stoddard, F.L.; Tayeh, N.; Torres, A.M.; Usadel, B.; Schubert, I.; O’Sullivan, D.M.; Schulman, A.H.; Andersen, S.U.
-_The giant diploid faba genome unlocks variation in a global protein crop._
-**bioRxiv**, 2022.  _[**doi**](http://dx.doi.org/10.1101/2022.09.23.509015)_
+No preprint available not yet published!
 
 ## Data
 
 * Bornhofen, Elesandro et al.
 _Data for: Leveraging spatio-temporal genomic breeding value estimates of dry matter yield and herbage quality in ryegrass via random regression models._
 **Dryad**, Dataset, 2023. _[**doi**](https://doi.org/10.5061/dryad.q83bk3jm7)_
+
+* Bornhofen, Elesandro et al.
+_R data package: breed4biomass_
+Available at: _[**GitHub**](https://github.com/elesandrobornhofen/breed4biomass)_
 
 
 ## Selected conference proceedings
