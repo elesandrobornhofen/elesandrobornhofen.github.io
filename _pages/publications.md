@@ -10,7 +10,7 @@ Selected publications. The full list can be found elsewhere, as for example, on 
 
 ## Selected peer reviewed articles
 
-* Bornhofen, E.; Fè, D.; Nagy, I.; Lenk, I.; Greve, M.; Didion, T.; Jensen, C.S.; Asp, T.; Janss, L.
+* <span style="color: #449bdb">Bornhofen E.</span>; Fè, D.; Nagy, I.; Lenk, I.; Greve, M.; Didion, T.; Jensen, C.S.; Asp, T.; Janss, L.
 _Genetic architecture of inter-specific and -generic grass hybrids by network analysis on multi-omics data._
 **BMC Genomics**, 2023. _[**doi**](https://doi.org/10.1186/s12864-023-09292-7)_
 
