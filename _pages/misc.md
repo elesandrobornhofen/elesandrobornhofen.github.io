@@ -27,3 +27,5 @@ Super nice articles from Amazon's Machine Learning University (MLU) on some ML c
   - Repo: awesome-multi-omics <span style="color: #449bdb">[**here**](https://github.com/mikelove/awesome-multi-omics)</span>
 
 * Anti-hype LLM reading list <span style="color: #449bdb">[**here**](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)</span>
+
+* Friends Don't Let Friends Make Bad Graphs <span style="color: #449bdb">[**here**](https://github.com/cxli233/FriendsDontLetFriends)</span>
