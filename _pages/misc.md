@@ -31,3 +31,6 @@ Super nice articles from Amazon's Machine Learning University (MLU) on some ML c
 * Friends Don't Let Friends Make Bad Graphs <span style="color: #449bdb">[**here**](https://github.com/cxli233/FriendsDontLetFriends)</span>
 
 * Solved Exercises of Mrode's book Linear Models for the Prediction of the Genetic Merit of Animals <span style="color: #449bdb">[**here**](https://github.com/MrodesBook)</span>
+
+## Misc.
+- Play with mixed effects ANOVA <span style="color: #449bdb">[**here**](https://csu-statistics.shinyapps.io/Mixed_effects_ANOVA_data_generator/)</span>
