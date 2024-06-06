@@ -33,4 +33,4 @@ Super nice articles from Amazon's Machine Learning University (MLU) on some ML c
 * Solved Exercises of Mrode's book Linear Models for the Prediction of the Genetic Merit of Animals <span style="color: #449bdb">[**here**](https://github.com/MrodesBook)</span>
 
 ## Misc.
-- Play with mixed effects ANOVA <span style="color: #449bdb">[**here**](https://csu-statistics.shinyapps.io/Mixed_effects_ANOVA_data_generator/)</span>
+- Shiny apps for demystifying statistical models and methods <span style="color: #449bdb">[**here**](https://sites.google.com/view/ben-prytherch-shiny-apps/factorial-anova-app?authuser=0)</span>
